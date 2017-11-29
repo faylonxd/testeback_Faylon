@@ -1,4 +1,7 @@
-Programa realizado em java e banco de dados Mysql, abaixo segue o script do BD:
+Programa realizado em java e banco de dados Mysql,no arquivo .rar esta o projeto do netbeans e criei tambem um arquivo para cada classe
+
+
+abaixo segue o script do BD:
 
 
 SET @OLD_UNIQUE_CHECKS=@@UNIQUE_CHECKS, UNIQUE_CHECKS=0;
